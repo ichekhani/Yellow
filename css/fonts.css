@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Calisto MT';
+    src: url('./fonts/CalistoMT.eot');
+    src: url('./fonts/CalistoMT.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CalistoMT.woff2') format('woff2'),
+        url('./fonts/CalistoMT.woff') format('woff'),
+        url('./fonts/CalistoMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rockwell Condensed';
+    src: url('./fonts/Rockwell-Condensed.eot');
+    src: url('./fonts/Rockwell-Condensed.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Rockwell-Condensed.woff2') format('woff2'),
+        url('./fonts/Rockwell-Condensed.woff') format('woff'),
+        url('./fonts/Rockwell-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+

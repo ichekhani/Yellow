@@ -1,0 +1,27 @@
+.img img {width:100%;  height:800px;}
+body {overflow-x: hidden;}
+.header-img {position: relative;}
+.buy-now {border-radius: 80px ; color:black; width:120px; height:48px; cursor:pointer;position: absolute; background-color: #ffffff; bottom:12%; left:45%;
+transition:0.3s 0.2s 0.3s 0.2s ease-in-out ;}
+.buy-now:hover {border: 1px dotted ; background-color: rgb(219, 219, 38);}
+.nino {font-family: bpg nino mtavruli;}
+.disabled {color:transparent; color:gray}
+.buy-p {font-size:25px;  margin-top:8px;}
+.news {margin-top:55px;}
+.news1 img {width:100%; height:600px;}
+.slide-b {max-height:800px;}
+
+
+
+
+.bg-footer {background-color: black;}
+.socialb img {width: 30px; transition: ease-in 0.3s 0.3s; margin-right:10px; opacity: 0.5; }
+.socialb img:hover {width:50px; opacity: 1;}
+.partner img {width:100px;}
+.partner img:nth-child(2) {width:60px;}
+
+
+
+
+
+
